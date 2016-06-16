@@ -1,2 +1,3 @@
 "uname"
 mvn -v
+javac
