@@ -1,2 +1,2 @@
-# ownnosql
-to build own project of nosql
+# own-component
+# It is common tool with thirdpart. 
