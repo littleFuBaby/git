@@ -13,7 +13,7 @@ import org.apache.solr.common.SolrInputDocument;
 
 public class SolrTest {
 
-	private static final String SOLR_URL = "http://47.100.18.54:8708/solr/test_solr";
+	private static final String SOLR_URL = "http://47.100.18.54:8708/solr/sxyp_core";
 
 	public static HttpSolrClient getClient() {
 		return new HttpSolrClient.Builder(SOLR_URL).withConnectionTimeout(1000).withSocketTimeout(10000).build();

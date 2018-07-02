@@ -79,5 +79,13 @@
 		</dependency>
 		<!-- solrj for solr end -->
 
+		<!-- jedis begin -->
+		<dependency>
+			<groupId>redis.clients</groupId>
+			<artifactId>jedis</artifactId>
+			<version>2.9.0</version>
+		</dependency>
+		<!-- jedis end -->
+
 	</dependencies>
 </project>
